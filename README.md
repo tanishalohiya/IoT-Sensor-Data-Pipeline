@@ -18,7 +18,7 @@ This project simulates IoT sensor data (temperature & humidity) and sends it to 
 ## How to Run
 1. Run Node-RED
 2. Run sensor.py
-3. Open http://localhost:1880/ui
+
 
 ## Output
 - Live dashboard with graphs and alerts
